@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "mouse PPC tetrode recording in an auditory probabilistic decision-making task",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Yang, Yang"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
